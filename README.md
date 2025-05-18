@@ -63,4 +63,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Nationalize is licensed under [Unlicense license](LICENSE)
+Nationalize is licensed under [WTFPL license](LICENSE)
